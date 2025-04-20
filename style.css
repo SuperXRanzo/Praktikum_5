@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_wt_11_years_dark_logo_1fb106ebe8e9d8eb5df0bef3b024c921.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+
+#judul {
+    color: #0f2c2c;
+    text-align: center;
+    font-size: 24pt;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.center-table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+}
+
+th {
+    background-color: #bcd4f5;
+}
+
+td {
+    font-size: 14px;
+    padding: 10px;
+}
